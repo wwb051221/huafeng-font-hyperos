@@ -1,0 +1,6 @@
+id=KafuMarkerStd85
+name=花風手写体
+version=8.1-hyperos4
+versionCode=9
+description=花風手写体（花風マーカー体）系统字体模块，适配 HyperOS / MIUI（Android 13~17）。覆盖 sans-serif 使用的 Roboto-Regular.ttf 与中文回退 MiSansL3.otf 等 24 个系统字体文件，系统设置、微信、QQ 等第三方 App 的中英文一并生效。
+minMagisk=20400
